@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+dataset/
+dataset - Copy/
+runs/detect/predict*/
+runs/detect/train*/
